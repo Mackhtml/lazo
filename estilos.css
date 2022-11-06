@@ -1,0 +1,38 @@
+p {
+    center;color: black;
+    font-size: 30px;
+}
+h1 {
+    text-align: center;color: blue;
+    font-size: 50px;
+
+}
+li{
+    color:blue;
+    font-size: 35px;
+}
+
+    
+.alinear_flex{
+    display: flex;
+    justify-content: center;
+}
+.alinear_flex{
+    display: flex;
+    justify-content: center;
+}
+.alinear_flex{
+    display: flex;
+    justify-content: center;
+}
+a{
+    color: red;
+    font-size: 25px;
+}
+
+
+    
+
+
+
+    
